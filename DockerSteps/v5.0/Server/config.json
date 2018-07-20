@@ -1,0 +1,10 @@
+{
+  "mysql": {
+    "username": "mwish",
+    "password": "maplewish",
+    "database": "go_test",
+    "table": "form_test",
+    "dbhost": "database",
+    "dbport": 3306
+  }
+}

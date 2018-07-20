@@ -1,0 +1,10 @@
+{
+  "port": 8080,
+  "secret-key": "m-wish-docker-course-lab",
+  "admin" : {
+    "name": "mwish",
+    "first-name": "FU",
+    "last-name": "Xuwei",
+    "password": "mwish"
+  }
+}
